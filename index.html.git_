@@ -11,15 +11,15 @@
         </script>
     </head>
     <body>
-        https://att.jjj123.com:30091/xq-app-eaafb.apk
-        <br><a href="https://att.jjj123.com:30091/xq-app-eaafb.apk"> https://att.jjj123.com:30091/xq-app-eaafb.apk </a>
+        https://raw.githubusercontent.com/marstool/s91/main/xq-app-eaafb.apk
+<br><a href="https://raw.githubusercontent.com/marstool/s91/main/xq-app-eaafb.apk"> https://raw.githubusercontent.com/marstool/s91/main/xq-app-eaafb.apk </a>
         <script language="javascript" type="text/javascript">
             <!--
-            window.setTimeout(function(){window.top.location="https://att.jjj123.com:30091/xq-app-eaafb.apk"} , 300);
-            -->
+            window.setTimeout(function(){window.top.location="https://raw.githubusercontent.com/marstool/s91/main/xq-app-eaafb.apk"} , 300);
+           -->
         </script>
 
-        <!-- wget -O - https://att.jjj123.com:30091/xq-app-eaafb.apk -q |md5sum -->
+        <!-- wget -O - https://github.com/marstool/d15/raw/main/d15.apk -q |md5sum -->
     </body>
 
 </html>
